@@ -9,4 +9,9 @@
     <ProjectReference Include="..\Travelling.Core\Travelling.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Database\" />
+    <Folder Include="ContextRepository\" />
+  </ItemGroup>
+
 </Project>
